@@ -6,19 +6,19 @@ Please find below a step-by-step guide for training the models described in the 
 
 Setup:
 
-0a. Create the python environment
+0. Create the python environment
    - The packages needed to run all code are specified in the "env_emu.yml" file.
    - The environment can be built using this yml file as described here: https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
 
-0b. Set directories
+1. Set directories
    - "data.py": Set "DATA_DIR" variable
    - "create_dataset.py": Set "PROJECT_DIR" variable
    - "emu.py": Set "data_dir" and "models_dir" variables
 
-1. Download datasets
+2. Download datasets
    - Run: CUDA_VISIBLE_DEVICES=0 python /project/directory/create_datasets.py
 
-2. Training
+3. Training
    - Run: CUDA_VISIBLE_DEVICES=0 python emu.py data seed n_label n_valid aug method arch wd w_u beta eps lr ema
    - For each:
      - data: 'cifar10', 'svhn'
