@@ -5,6 +5,7 @@ This repository contains the code referenced in the Stat paper "Epsilon Consiste
 Please find below a step-by-step guide for training the models described in the paper.
 
 Setup:
+
 0a. Create the python environment
    - The packages needed to run all code are specified in the "env_emu.yml" file.
    - The environment can be built using this yml file as described here: https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
@@ -17,8 +18,8 @@ Setup:
 1. Download datasets
    - Run: CUDA_VISIBLE_DEVICES=0 python /project/directory/create_datasets.py
 
-Training:
-2. Run: CUDA_VISIBLE_DEVICES=0 python emu.py data seed n_label n_valid aug method arch wd w_u beta eps lr ema
+2. Training
+   - Run: CUDA_VISIBLE_DEVICES=0 python emu.py data seed n_label n_valid aug method arch wd w_u beta eps lr ema
    - For each:
      - data: 'cifar10', 'svhn'
      - seed: 0, 1, 2
