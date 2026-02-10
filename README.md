@@ -1,6 +1,6 @@
 # Epsilon-Consistent-Mixup
 
-This repository contains the code referenced in the Stat paper "Epsilon Consistent Mixup: An Adaptive Consistency-Interpolation Tradeoff" (https://arxiv.org/abs/2104.09452).
+This repository contains the code referenced in the Stat paper "Epsilon Consistent Mixup: An Adaptive Consistency-Interpolation Tradeoff" (https://arxiv.org/abs/2104.09452) (https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.425).
 
 Please find below a step-by-step guide for training the models described in the paper.
 
