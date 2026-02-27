@@ -8,7 +8,7 @@ Setup:
 
 0. Create the python environment
    - The packages needed to run all code are specified in the "env_emu.yml" file.
-   - The environment can be built using this yml file as described here: https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+   - The environment can be built using this yml file as described here: [link](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
 
 1. Set directories
    - "data.py": Set "DATA_DIR" variable
