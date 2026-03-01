@@ -36,3 +36,5 @@ Setup:
      - eps: 0.0, 10.0
      - lr: 0.002
      - ema: 0.999
+
+<img src="https://www.google-analytics.com/collect?v=1&tid=G-QST3V3PB55&cid=555&t=event&ec=repo&ea=view&el=Epsilon-Consistent-Mixup" style="display:none">
