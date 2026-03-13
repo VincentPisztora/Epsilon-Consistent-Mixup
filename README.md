@@ -2,7 +2,6 @@
 
 <div align="center">
   <img src="/assets/lambda_eta_schedule.png" alt="image" width="400">
-  <br>
   <h5><em>This figure illustrates how the <i>&epsilon;</i>mu response mixing parameter <i>&eta;</i><sub>&epsilon;</sub>(<i>&lambda;</i>) relates to the feature mixing parameter <i>&lambda;</i> across several values for the rescaled consistency neighborhood radius <i>v</i><sub>&epsilon;</sub>.</em></h5>
 </div>
 <br>
