@@ -7,8 +7,6 @@
 </div>
 <br>
 
- and 
-
 This repository contains the code referenced in the Stat paper "Epsilon Consistent Mixup: An Adaptive Consistency-Interpolation Tradeoff" ([arxiv](https://arxiv.org/abs/2104.09452)) ([Stat](https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.425)).
 
 In this paper we propose Epsilon Consistent Mixup ($`\epsilon`$mu). $`\epsilon`$mu is a data-based structural regularization technique that combines Mixup's linear interpolation with consistency regularization in the Mixup direction, by compelling a simple adaptive tradeoff between the two. This learnable combination of consistency and interpolation induces a more flexible structure on the evolution of the response across the feature space and is shown to improve semi-supervised classification accuracy on the SVHN and CIFAR10 benchmark datasets, yielding the largest gains in the most challenging low label-availability scenarios. Empirical studies comparing $`\epsilon`$mu and Mixup are presented and provide insight into the mechanisms behind $`\epsilon`$mu's effectiveness. In particular, $`\epsilon`$mu is found to produce more accurate synthetic labels and more confident predictions than Mixup.
