@@ -3,7 +3,7 @@
 <div align="center">
   <img src="/assets/lambda_eta_schedule.png" alt="image" width="400">
   <br>
-  <small><em>This is your descriptive caption text.</em></small>
+  <small><em>This figure illustrates how the ϵmu response mixing parameter ηϵ(λ) relates to the feature mixing parameter λ across several values for the rescaled consistency neighborhood radius $`v_\epsilon`$</em></small>
 </div>
 <br>
 
