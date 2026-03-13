@@ -3,9 +3,11 @@
 <div align="center">
   <img src="/assets/lambda_eta_schedule.png" alt="image" width="400">
   <br>
-  <small><em>This figure illustrates how the ϵmu response mixing parameter ηϵ(λ) relates to the feature mixing parameter λ across several values for the rescaled consistency neighborhood radius $`v_{\epsilon}`$</em></small>
+  <small><em>This figure illustrates how the <i>&epsilon;</i>mu response mixing parameter <i>&eta;</i><sub>&epsilon;</sub>(<i>&lambda;</i>) relates to the feature mixing parameter <i>&lambda;</i> across several values for the rescaled consistency neighborhood radius <i>v</i><sub>&epsilon;</sub>.</em></small>
 </div>
 <br>
+
+ and 
 
 This repository contains the code referenced in the Stat paper "Epsilon Consistent Mixup: An Adaptive Consistency-Interpolation Tradeoff" ([arxiv](https://arxiv.org/abs/2104.09452)) ([Stat](https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.425)).
 
