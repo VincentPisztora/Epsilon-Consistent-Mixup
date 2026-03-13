@@ -1,7 +1,7 @@
 # Epsilon-Consistent-Mixup
 
 <div align="center">
-  <img src="/assets/lambda_eta_schedule.png" alt="image" width="200">
+  <img src="/assets/lambda_eta_schedule.png" alt="image" width="400">
   <br>
   <small><em>This is your descriptive caption text.</em></small>
 </div>
