@@ -1,6 +1,10 @@
 # Epsilon-Consistent-Mixup
 
-<img src="/assets/lambda_eta_schedule.png" alt="image" style="display: block; margin: 0 auto; max-width: 50%;">
+<div align="center">
+  <img src="/assets/lambda_eta_schedule.png" alt="image" width="400">
+  <br>
+  <small><em>This is your descriptive caption text.</em></small>
+</div>
 
 This repository contains the code referenced in the Stat paper "Epsilon Consistent Mixup: An Adaptive Consistency-Interpolation Tradeoff" ([arxiv](https://arxiv.org/abs/2104.09452)) ([Stat](https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.425)).
 
